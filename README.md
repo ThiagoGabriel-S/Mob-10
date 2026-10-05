@@ -1,2 +1,2 @@
-# Mob10-app
-App da aula 10 de desenvolvimento mobile.
+# Mob10
+Aula 10 de desenvolvimento mobile.
